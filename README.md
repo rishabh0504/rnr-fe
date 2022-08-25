@@ -1,4 +1,4 @@
-# Webpack 5 boilerplate
+# Webpack 5 boilerplate (read me updated)
 
 ![](https://habrastorage.org/webt/q-/lv/b0/q-lvb0d4li7cpi-hsctistlzooi.png)
 
